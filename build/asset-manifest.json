@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b5632a6.css",
+    "main.js": "/static/js/main.1ddc7ad4.js",
+    "static/media/hyggex.png": "/static/media/hyggex.881a9e9824c447d1be15.png",
+    "static/media/logo.jpg": "/static/media/logo.325be4e6fa79f09b3fd1.jpg",
+    "index.html": "/index.html",
+    "main.1b5632a6.css.map": "/static/css/main.1b5632a6.css.map",
+    "main.1ddc7ad4.js.map": "/static/js/main.1ddc7ad4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b5632a6.css",
+    "static/js/main.1ddc7ad4.js"
+  ]
+}
